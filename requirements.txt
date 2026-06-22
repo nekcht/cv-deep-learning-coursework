@@ -1,0 +1,10 @@
+jupyter
+notebook
+numpy
+matplotlib
+torch
+torchvision
+tqdm
+timm
+opencv-python
+scikit-image

@@ -1,0 +1,23 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+data/
+datasets/
+*.pyc
+.DS_Store
+.agents/
+
+# Raw source notebooks kept at the project root.
+# Cleaned portfolio versions live in notebooks/.
+knn.ipynb
+svm.ipynb
+softmax.ipynb
+numpy_two_layer_net.ipynb
+pytorch_two_layer_net.ipynb
+pytorch_convnets.ipynb
+pytorch_transformers.ipynb
+intro_to_python.ipynb
+numerical_python_1.ipynb
+numerical_python_2.ipynb
