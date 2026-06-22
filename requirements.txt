@@ -8,3 +8,8 @@ tqdm
 timm
 opencv-python
 scikit-image
+scikit-learn
+imageio
+pillow
+future
+six

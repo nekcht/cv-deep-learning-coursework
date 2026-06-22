@@ -39,4 +39,6 @@ Datasets such as CIFAR-10 should be downloaded through standard library utilitie
 
 ## Execution Notes
 
-The NumPy/classical notebooks expect the original local `engine` helper package from the coursework environment. That helper package is not included here, so those notebooks need that code restored before they can be rerun end to end.
+The project includes the local `engine/` helper package used by the NumPy and classical-machine-learning notebooks. Each notebook has a short setup cell that locates the project root, adds it to `sys.path`, and creates a local ignored `data/` directory for datasets and cached arrays.
+
+Some PyTorch transfer-learning and pretrained Vision Transformer sections may download model weights through `torchvision` or `timm` when run for the first time.
