@@ -1,4 +1,4 @@
-# Computer Vision Foundations
+# Computer Vision and Deep Learning
 
 Cleaned portfolio versions of MSc computer vision and deep learning coursework notebooks, covering classical image classification, optimization, neural networks, convolutional networks, and vision transformers.
 
